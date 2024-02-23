@@ -226,7 +226,7 @@
             "color_field_text": "#2D4F1E",
             "color_field_borders": "#2D4F1E",
             "font_heading": "futura_n5",
-            "font_body": "karla_n4",
+            "font_body": "Arial",
             "sections": {
                 "header": {
                     "type": "header",
